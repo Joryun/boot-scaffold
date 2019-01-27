@@ -1,0 +1,3 @@
+# swagger config - true: enable default: disable
+swagger:
+  enable: true
